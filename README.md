@@ -1,22 +1,25 @@
-<a href="#"><img width='100%' src='https://github.com/VietHoang24/VietHoang24/assets/69743425/22496848-6017-49da-acfa-f0646277932a)/wp-content/uploads/2020/01/software-development-01.png'/>
-</a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Viet Hoang</h1>
 <h3 align="center">I'm a passionate Front End Developer from Viet Nam.</h3>
 
 
-## 🙋‍♂️ About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working on **outsourcing field and freelancer**.
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 I’m currently learning **Backend technology and more.**
+<br><br>
+
+- :school: I’m currently working on outsourcing field and freelancer.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student:  I’m currently learning Backend technology and more.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`
+<br>
+
 
 ## 🚀 Skill and Tech:
-• React, Vue, MUI, Antd, Redux, Zustand, TypeScript, Styled Components, Tailwind, Firebase, Express, NextJS, NestJs, React native and Figma.
-
-• Terraform, CDKTF, GCP, AWS, Docker, K8s, Ansible,
-
-• Cypress, Jest, Testing Library, Postman & Storybook.
+• React, NextJS, Vue, NuxtJS, MUI, Antd, Redux, Zustand, Pinia, VueX, TypeScript, Styled Components, Tailwind, Primevue, NestJs, and Figma.
 
 • Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
 
