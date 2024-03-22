@@ -1,4 +1,5 @@
-<a href="#"><img  height="auto" src="https://th.bing.com/th/id/R.44eb3fe99fd015084dfb660b3f80bb80?rik=4UJeoL%2fK5vo%2buA&pid=ImgRaw&r=0" height="175px"/></a>
+<a href="#"><img width='100%' src='https://github.com/VietHoang24/VietHoang24/assets/69743425/22496848-6017-49da-acfa-f0646277932a)/wp-content/uploads/2020/01/software-development-01.png'/>
+</a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Viet Hoang</h1>
 <h3 align="center">I'm a passionate Front End Developer from Viet Nam.</h3>
