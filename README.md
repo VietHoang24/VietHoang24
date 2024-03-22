@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Viet Hoang</h1>
-<h3 align="center">I'm a passionate Front End Developer from Viet Nam.</h3>
+<h3 align="center">I’m a Frontend Developer with over 3 years of experience in creating innovative and user-friendly interfaces</h3>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
