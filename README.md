@@ -19,7 +19,7 @@
 
 
 ## 🚀 Skill and Tech:
-• React, NextJS, Vue, NuxtJS, MUI, Antd, Redux, Zustand, Pinia, VueX, TypeScript, Styled Components, Tailwind, Primevue, NestJs, and Figma.
+• React, NextJS, Vue, NuxtJS, NodeJS, NestJS, MUI, Antd, Redux, Zustand, Pinia, VueX, TypeScript, Styled Components, Tailwind, Primevue, , and Figma.
 
 • Extreme Programming, Clean Code, CI/CD, TDD, Interviewing & Accessibility.
 
